@@ -115,8 +115,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-Your Name - [Your Email]
-Project Link: [https://github.com/yourusername/diabetech-prediction-buddy](https://github.com/yourusername/diabetech-prediction-buddy)
+Your Name - [lizameher38@gmail.com]
 
 ## 🙏 Acknowledgements
 
