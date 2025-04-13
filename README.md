@@ -5,6 +5,11 @@
 
 DiabeTech Prediction Buddy is an advanced web application designed to help individuals assess their risk of developing diabetes. By analyzing key health metrics through a sophisticated prediction model, the app provides personalized risk assessments and educational resources to promote proactive health management.
 
+Screenshot: 
+![Screenshot 2025-04-13 193318](https://github.com/user-attachments/assets/f19a0efb-a681-4a7a-a608-613e47493ee8)
+![Screenshot 2025-04-13 193422](https://github.com/user-attachments/assets/4c352017-6960-4fd5-a985-23d30e7290fa)
+![Screenshot 2025-04-13 193455](https://github.com/user-attachments/assets/1df71c4d-e0fc-4135-b4b4-501d669a1e63)
+
 ## 🌟 Key Features
 
 - **Comprehensive Health Risk Assessment**
